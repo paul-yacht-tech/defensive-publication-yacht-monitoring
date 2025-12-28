@@ -9,12 +9,12 @@ Diese Veröffentlichung beschreibt ein technisches Prinzip zur kontinuierlichen 
 Das System basiert auf der Erfassung und Auswertung verschiedener Sensordaten durch ein eingebettetes elektronisches System und dient der Erkennung sicherheits-, zustands- oder betriebsrelevanter Ereignisse während des Betriebs oder im Ruhezustand des Fahrzeugs.
 2. Technische Ausgangslage und Problemstellung
 Wasserfahrzeuge sind während des Betriebs und bei Abwesenheit der Besatzung verschiedenen Risiken ausgesetzt, die nicht immer unmittelbar erkannt werden. Dazu zählen unter anderem:
-Grund- oder Hindernisberührungen
-Wassereintritt
-Überhitzung oder Frost
-unzulässige Bewegungen oder Lageänderungen
-Umwelt- oder Wetterveränderungen
-unbefugte Zugriffe oder Nutzung
+Grund- oder Hindernisberührungen,
+Wassereintritt,
+Überhitzung oder Frost,
+unzulässige Bewegungen oder Lageänderungen,
+Umwelt- oder Wetterveränderungen,
+unbefugte Zugriffe oder Nutzung.
 Bestehende Navigations- oder Einzelüberwachungssysteme erfassen diese Zustände oft nur teilweise oder isoliert. Es besteht daher Bedarf an einem integrierten, ereignisbasierten Überwachungssystem, das unterschiedliche Sensorinformationen kombiniert und relevante Zustandsänderungen erkennt und meldet.
 3. Grundlegendes Systemkonzept
 Das vorgeschlagene System ist als eigenständige Überwachungseinheit ausgeführt und umfasst mindestens folgende funktionale Komponenten:
