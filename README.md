@@ -76,5 +76,3 @@ Kommunikationsprotokolle oder Datenformate
 Mit dieser Veröffentlichung werden die beschriebenen Konzepte und Systemzusammenhänge öffentlich zugänglich gemacht und dem Stand der Technik zugeordnet.
 Die Offenlegung erfolgt mit dem Ziel, spätere ausschließliche Schutzrechte auf die beschriebenen Grundprinzipien auszuschließen.
 Ende der Veröffentlichung
-Commit message:
-Initial defensive publication
